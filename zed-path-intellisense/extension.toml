@@ -3,7 +3,7 @@ name = "Path Intellisense"
 description = "Provides file path autocompletion when typing quotes ('', \"\") in code"
 version = "0.1.0"
 schema_version = 1
-authors = ["Vladislav Pavlov <vlafpav46@gmail.com"]
+authors = ["Vladislav Pavlov <theevilstone8906@gmail.com"]
 repository = "https://github.com/deluxe-catalyst/zed-path-intellisense"
 
 [language_servers.zed-path-intellisense]
