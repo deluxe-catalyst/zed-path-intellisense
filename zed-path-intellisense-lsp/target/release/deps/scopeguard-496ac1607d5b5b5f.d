@@ -1,0 +1,7 @@
+/Users/vladislav/Documents/Проекты/ZedPathIntelliSense/zed-path-intellisense-lsp/target/release/deps/scopeguard-496ac1607d5b5b5f.d: /Users/vladislav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scopeguard-1.2.0/src/lib.rs
+
+/Users/vladislav/Documents/Проекты/ZedPathIntelliSense/zed-path-intellisense-lsp/target/release/deps/libscopeguard-496ac1607d5b5b5f.rlib: /Users/vladislav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scopeguard-1.2.0/src/lib.rs
+
+/Users/vladislav/Documents/Проекты/ZedPathIntelliSense/zed-path-intellisense-lsp/target/release/deps/libscopeguard-496ac1607d5b5b5f.rmeta: /Users/vladislav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scopeguard-1.2.0/src/lib.rs
+
+/Users/vladislav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scopeguard-1.2.0/src/lib.rs:

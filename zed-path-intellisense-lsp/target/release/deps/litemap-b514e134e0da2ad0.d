@@ -1,0 +1,10 @@
+/Users/vladislav/Documents/Проекты/ZedPathIntelliSense/zed-path-intellisense-lsp/target/release/deps/litemap-b514e134e0da2ad0.d: /Users/vladislav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/lib.rs /Users/vladislav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/map.rs /Users/vladislav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/store/mod.rs /Users/vladislav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/store/slice_impl.rs
+
+/Users/vladislav/Documents/Проекты/ZedPathIntelliSense/zed-path-intellisense-lsp/target/release/deps/liblitemap-b514e134e0da2ad0.rlib: /Users/vladislav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/lib.rs /Users/vladislav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/map.rs /Users/vladislav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/store/mod.rs /Users/vladislav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/store/slice_impl.rs
+
+/Users/vladislav/Documents/Проекты/ZedPathIntelliSense/zed-path-intellisense-lsp/target/release/deps/liblitemap-b514e134e0da2ad0.rmeta: /Users/vladislav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/lib.rs /Users/vladislav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/map.rs /Users/vladislav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/store/mod.rs /Users/vladislav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/store/slice_impl.rs
+
+/Users/vladislav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/lib.rs:
+/Users/vladislav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/map.rs:
+/Users/vladislav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/store/mod.rs:
+/Users/vladislav/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/litemap-0.8.2/src/store/slice_impl.rs:
